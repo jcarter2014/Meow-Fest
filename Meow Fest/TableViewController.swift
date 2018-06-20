@@ -11,11 +11,6 @@ import Alamofire
 
 class TableViewController: UITableViewController {
     
-    /*
-    This is what I've got in an hour.  I just found a great Ray Wenderlich article that I would be able to use to figure the image loading and cell sizing out if I had more time.
-    Thanks for reading my code!
-    */
-    
     struct Cat {
         let title: String?
         let date: String?
