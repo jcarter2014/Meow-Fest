@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE64F054210698A200F6907A /* Meow Fest Screenshot 2.png in Resources */ = {isa = PBXBuildFile; fileRef = DE64F052210698A200F6907A /* Meow Fest Screenshot 2.png */; };
+		DE64F055210698A200F6907A /* Meow Fest Screenshot 1.png in Resources */ = {isa = PBXBuildFile; fileRef = DE64F053210698A200F6907A /* Meow Fest Screenshot 1.png */; };
 		DED2AC8820CFE27C00D3D28E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DED2AC8720CFE27C00D3D28E /* AppDelegate.swift */; };
 		DED2AC8A20CFE27C00D3D28E /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DED2AC8920CFE27C00D3D28E /* TableViewController.swift */; };
 		DED2AC8D20CFE27C00D3D28E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DED2AC8B20CFE27C00D3D28E /* Main.storyboard */; };
@@ -20,6 +22,8 @@
 		6FBE751ED0E41A0E242D3606 /* Pods-Meow Fest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Meow Fest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Meow Fest/Pods-Meow Fest.debug.xcconfig"; sourceTree = "<group>"; };
 		98EB6305755943D2BB2D7088 /* Pods-Meow Fest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Meow Fest.release.xcconfig"; path = "Pods/Target Support Files/Pods-Meow Fest/Pods-Meow Fest.release.xcconfig"; sourceTree = "<group>"; };
 		A51E522BC3E18F1992DE3A63 /* Pods_Meow_Fest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Meow_Fest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DE64F052210698A200F6907A /* Meow Fest Screenshot 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Meow Fest Screenshot 2.png"; sourceTree = "<group>"; };
+		DE64F053210698A200F6907A /* Meow Fest Screenshot 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Meow Fest Screenshot 1.png"; sourceTree = "<group>"; };
 		DED2AC8420CFE27C00D3D28E /* Meow Fest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Meow Fest.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DED2AC8720CFE27C00D3D28E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DED2AC8920CFE27C00D3D28E /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
@@ -79,6 +83,8 @@
 				DED2AC8E20CFE27C00D3D28E /* Assets.xcassets */,
 				DED2AC9020CFE27C00D3D28E /* LaunchScreen.storyboard */,
 				DED2AC9320CFE27C00D3D28E /* Info.plist */,
+				DE64F053210698A200F6907A /* Meow Fest Screenshot 1.png */,
+				DE64F052210698A200F6907A /* Meow Fest Screenshot 2.png */,
 			);
 			path = "Meow Fest";
 			sourceTree = "<group>";
@@ -156,6 +162,8 @@
 				DED2AC9220CFE27C00D3D28E /* LaunchScreen.storyboard in Resources */,
 				DED2AC8F20CFE27C00D3D28E /* Assets.xcassets in Resources */,
 				DED2AC8D20CFE27C00D3D28E /* Main.storyboard in Resources */,
+				DE64F054210698A200F6907A /* Meow Fest Screenshot 2.png in Resources */,
+				DE64F055210698A200F6907A /* Meow Fest Screenshot 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
